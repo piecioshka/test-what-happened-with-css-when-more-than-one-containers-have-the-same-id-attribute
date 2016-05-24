@@ -2,8 +2,27 @@
 
 > :ledger: Test of CSS behaviour with two containers with the same ID attribute.
 
-## Demo
+## Screenshot of demo
 
 ![](./screenshot.png)
 
-2016 @ Piotr Kowalski
+## Code
+
+```html
+<style>
+    #test {
+        width: 200px;
+        height: 180px;
+        border: 1px solid #aaa;
+        box-shadow: 1px 0 4px #999;
+        margin: 5px;
+    }
+</style>
+
+<div id="test"></div>
+<div id="test"></div>
+```
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) 2016 @ Piotr Kowalski

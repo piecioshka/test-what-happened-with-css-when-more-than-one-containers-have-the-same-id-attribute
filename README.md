@@ -1,6 +1,6 @@
 # test-what-happened-with-css-when-more-than-one-containers-have-the-same-id-attribute
 
-> :ledger: Test of CSS behaviour with two containers with the same ID attribute.
+📒 Test of CSS behaviour with two containers with the same ID attribute.
 
 ## Screenshot of demo
 
@@ -25,4 +25,4 @@
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2016
+[The MIT License](https://piecioshka.mit-license.org) @ 2016
